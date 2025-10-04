@@ -1,6 +1,7 @@
 - Hi, I’m @tomatoeggriceX!
 - I’m interested in Machine Learning, Data Analytics and Data Engineering!
-- I have completed my bachelor's in Statistics from Queen's University and am currently a MsC in Data Science and Analytics Candidate.
+- I have completed my MsC in Data Science and Analytics Candidate from TMU.
+- I also have completed a bachelor's in Statistics from Queen's University.
 - I’m looking to collaborate on any machine learning, data management, data analysis etc. projects. 
 - How to reach me: email-18gk14@queensu.ca, or linkedin-https://www.linkedin.com/in/gary-kong-0b7977193/.
 
